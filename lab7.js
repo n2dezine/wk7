@@ -10,7 +10,7 @@ $(document).ready(function() {
 	
 	function handlerIn(e)
 	{
-		$('section').transition({y:'300px'});
+		$('section').transition({y:'340px'});
 	}
 	
 	function handlerOut(e)

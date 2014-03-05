@@ -7,20 +7,13 @@
 
 section {
 	position:relative;
-	top:-300px;
+	top:-340px;
 }
 
 .chris {
 	background:#936;
+	margin-top:50px;
 	color:white;
-	font-size:18px;
-	width:300px;
-	padding:10px;
-}
-
-.chris:hover {
-	background:#FF9;
-	color:#936;
 	font-size:18px;
 	width:300px;
 	padding:10px;
