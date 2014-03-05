@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
 	
-	$('section p:last').text('Welcome Chris! Hover Here').addClass('chris').addClass('chirs:hover');
+	$('section p:last').text('Welcome Chris! Hover Here').addClass('chris');
     
 	$('section p:first').css('color', '#03F'); //same as using style attribute
 	$('section p:last').addClass('good');
